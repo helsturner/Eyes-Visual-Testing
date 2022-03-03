@@ -1,0 +1,29 @@
+{
+  "name": "eyes-visual-testing",
+  "version": "1.0.0",
+  "description": "TAU Automated Visual Testing with WebdriverIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helsturner/Eyes-Visual-Testing.git"
+  },
+  "author": "Helen Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helsturner/Eyes-Visual-Testing/issues"
+  },
+  "homepage": "https://github.com/helsturner/Eyes-Visual-Testing#readme",
+  "devDependencies": {
+    "@wdio/local-runner": "^7.16.16",
+    "@wdio/mocha-framework": "^7.16.15",
+    "@wdio/selenium-standalone-service": "^7.16.16",
+    "@wdio/spec-reporter": "^7.16.14",
+    "webdriverio": "^7.16.16"
+  },
+  "dependencies": {
+    "@wdio/cli": "^7.16.16"
+  }
+}
