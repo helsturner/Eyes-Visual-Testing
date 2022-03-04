@@ -24,6 +24,8 @@
     "webdriverio": "^7.16.16"
   },
   "dependencies": {
-    "@wdio/cli": "^7.16.16"
+    "@applitools/eyes-webdriverio": "^5.34.12",
+    "@wdio/cli": "^7.16.16",
+    "dotenv": "^16.0.0"
   }
 }
